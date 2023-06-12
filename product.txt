@@ -2,3 +2,8 @@ mobile
 laptop
 desktop
 keyboard
+tables
+mouse
+chairs
+chargers
+bags
