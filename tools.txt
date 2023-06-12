@@ -1,0 +1,4 @@
+ansible
+terraform
+git
+docker
